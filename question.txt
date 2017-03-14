@@ -1,0 +1,11 @@
+'Which variable has the highest relationship with survival of the titanic distaster?'
+
+'If the two highest factors are combined, does it increase the predictive power of a algorithm?'
+
+What is the ratio of the differnt passenger classes?
+
+What are the ratios of the surviving passenger classes?
+
+Where did the majority of the passengers board the ship?
+
+`
