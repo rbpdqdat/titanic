@@ -6,7 +6,7 @@ This is an investigation about a sample of passengers from the titanic manifest.
 
 # Summary
 
-Most of the data was seemed to be available. A count of the rows of data show there to be 892 rows of data including the header. The web site [titanic facts](http://www.titanicfacts.net/titanic-passengers.html) idicates that this data set does not include all of the passengers aboard the titanic when it sank. According to this web site there were approximately 1,317 passengers actually on board.
+Initially, most of the data seemed to be available. A count of the rows of data show there to be 892 rows of data including the header. The web site [titanic facts](http://www.titanicfacts.net/titanic-passengers.html) idicates that this data set does not include all of the passengers aboard the titanic when it sank. According to this web site there were approximately 1,317 passengers actually on board.
 
 The data set in this study only has 891 passengers. The 'Age' column had over 150 missing values. There are many different ways to look at the data. This study focused on 'Pclass'- passenger class, 'Sex'- male/female, and 'Age'. All of which for this study, end up as factor variables.
 
