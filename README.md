@@ -11,3 +11,8 @@ Initially, most of the data seemed to be available. A count of the rows of data 
 The data set in this study only has 891 passengers. The 'Age' column had over 150 missing values. There are many different ways to look at the data. This study focused on 'Pclass'- passenger class, 'Sex'- male/female, and 'Age'. All of which for this study, end up as factor variables.
 
 The best relationships appear to be when combining the Age Factor Variables, Passenger Class, and Sex. There are issues with very small sample sizes. So, the next best categorical search seemed to be when both the class and sex were combined. In conclusion, a person would theoretically be most likely to survive the titanic disaster if you were a women from first class. To properly test this theory it would be necessary to take a smaller random sample from the population and then create probabilities, and then test the probabilities with the remaining data. 
+
+
+# License
+
+The information in this Jupyter Notebook can be replicated under [MIT](https://choosealicense.com/licenses/mit/) license.
