@@ -2,7 +2,7 @@
 
 # Introduction
 
-This is an investigation about a sample of passengers from the titanic manifest.  The decription of the data can be found in the description_titanic_data.txt.  The analysis was performed in the DataDive.ipynb Jupyter Notebook.
+This is an investigation about a sample of passengers from the titanic manifest.  The decription of the data can be found in the description_titanic_data.txt.  The analysis was performed in the DataDive.ipynb Jupyter Notebook.  There are several different graphs and analysis using pandas and matplotlib.
 
 # Summary
 
